@@ -36,10 +36,3 @@ hi, i'm [Okeibunor Emmanuel](https://okeibunoremma.netlify.app), a passionate se
 
 
 
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=trokeibunor&show_icons=true&theme=gotham" alt="trokeibunor" />
-
-
-
-
