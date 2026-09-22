@@ -1,12 +1,5 @@
 ### hey there 
 
-<a href="https://twitter.com/tr_hazard">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/okeibunor-emmanuel-a07473201/">
-  <img align="left" alt="Emmanuel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 <br />
 
 hi, i'm [Okeibunor Emmanuel](https://okeibunoremma.netlify.app), a full stack web developer and a freelance software engineer from Nigeria. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. i love working on new ideas, and the working with new people, of course I'm always learning and would love to hear more about your stuff, just contact me and we're good to go
